@@ -46,10 +46,7 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeWithHmnsh&show_icons=true&theme=tokyonight" alt="Himanshu's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithHmnsh&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewith-hmnsh&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hmnsh&layout=compact&theme=tokyonight)
 
-## ✍️ Random Dev Quote
-> "If you think your users are idiots, only idiots will use it." — *Linus Torvalds*
+
