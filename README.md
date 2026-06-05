@@ -47,8 +47,11 @@
 
 ## 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codeWith-hmnsh&show_icons=true&theme=tokyonight" alt="Himanshu's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeWith-hmnsh&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeWith-hmnsh&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Himanshu's Activity Graph" width="100%" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeWith-hmnsh&theme=tokyonight" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeWith-hmnsh&theme=tokyonight" height="150px" />
 </p>
 
 
